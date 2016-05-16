@@ -1,0 +1,45 @@
+# Site Settings
+title: Design Gamification
+email: yiren@asu.edu
+description: >
+  The Design Gamification Community
+baseurl: ""
+url: "http://designgamification.github.io"
+github_username:  designGamification
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages', '_papers', '_images']
+exclude: ['_pages/publication_backup']
+kramdown:
+  input: GFM
+encoding: UTF-8
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  type_order: article
+  group_by: type
+  group_order: ascending
+
+  source: ./_papers
+  bibliography: references.bib
+  bibliography_template: bibtemplate
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+  bibtex_filters:
+  - superscript
+  - latex
+
+  details_dir:    _papers
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

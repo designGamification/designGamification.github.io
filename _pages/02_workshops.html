@@ -1,0 +1,12 @@
+---
+layout: page
+title: Workshops
+permalink: /workshops/
+published: true
+---
+
+{% for post in site.posts %}
+    {% if post.categories contains 'workshop' %}
+        <a href="{{ post.url }}">[{{post.date | date: "%b %-d, %Y"}}]  {{ post.title }}</a><br>
+    {% endif %}
+{% endfor %}
