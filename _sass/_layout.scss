@@ -109,10 +109,21 @@ aside {
 }
 footer {
 	text-align: center;
-	padding: 40px;
+	//padding: 40px;
   	clear: left;
+    height: 100px;
+    width:100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
-
+article {
+  box-sizing: border-box;
+  min-height: 100%;
+  padding: 0 0 100px;
+  position: relative;
+  overflow: auto;
+}
 #mission {
   	font-size: 80%;
   	width: 50%;
@@ -131,10 +142,13 @@ footer {
 
 #projecticon {
   	font-size: 80%;
+    height: 240px;
     width: 200px;
     float: left;
+    margin: 10px;
     text-align: center;
-    img {width: 100%;}
+    img {height: 150px;}
+    overflow: auto;
 }
 
 #project {
