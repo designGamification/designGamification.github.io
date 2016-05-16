@@ -2,27 +2,28 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<div id="project">
+    <h2>{{ page.title }}</h2>
+    <img src="{{ site.url }}/{{ page.summaryimg }}">
 
-<img href="{{ site.url }}/{{ page.summaryimg }}">
+    <h3> Abstract </h3>
+    <p>{{ page.abstract }}</p>
+    {% if page.gameurl %}
+    <b>Game Link</b>: <a href="http://{{ page.gameurl }}">{{ page.gameurl }}</a>
+    {% endif %}
 
-<h3> Abstract </h3>
-<p>{{ page.abstract }}</p>
-{% if page.gameurl %}
-<b>Game Link</b>: <a href="http://{{ page.gameurl }}">{{ page.gameurl }}</a>
-{% endif %}
+    {% if page.paper %}
+    , <a href="http://{{ page.gameurl }}">Paper</a>
+    {% endif %}
 
-{% if page.paper %}
-<h3> Paper </h3><br>
-    {{ page.paper }}
-{% endif %}
-
-{% if page.video %}
-<h3> Video </h3><br>
+    {% if page.video %}
+    <h3> Video </h3><br>
     {{ page.video }}
-{% endif %}
+    {% endif %}
 
-{% if page.source %}
-<h3> Source </h3><br>
+    {% if page.source %}
+    <h3> Source </h3><br>
     {{ page.source }}
-{% endif %}
+    {% endif %}
+</div>
+
