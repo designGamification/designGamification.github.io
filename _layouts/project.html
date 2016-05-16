@@ -6,7 +6,7 @@ layout: default
     <h2>{{ page.title }}</h2>
     <img src="{{ site.url }}/{{ page.summaryimg }}">
 
-    <h3> Abstract </h3>
+    <b> Abstract </b>
     <p>{{ page.abstract }}</p>
     {% if page.gameurl %}
     <b>Game Link</b>: <a href="http://{{ page.gameurl }}">{{ page.gameurl }}</a>
@@ -25,5 +25,7 @@ layout: default
     <h3> Source </h3><br>
     {{ page.source }}
     {% endif %}
+
+    <br>Developed by <a href="{{ page.authorlink }}">{{ page.author }}</a>
 </div>
 
