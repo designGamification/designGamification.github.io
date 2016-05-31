@@ -2,7 +2,7 @@
 layout: project
 shorttitle:  "Impressionist: Large-scale crowdsourcing of shape saliency knowledge"
 title:  "Impressionist: Large-scale crowdsourcing of shape saliency knowledge"
-author: Yao, H. and Ren, Y.
+author: Yao, H. and Ren, Y. (ASU)
 authorlink:
 categories: project
 publishdate: 2016

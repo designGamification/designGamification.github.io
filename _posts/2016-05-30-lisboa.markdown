@@ -1,0 +1,25 @@
+---
+layout: project
+shorttitle:  "Organisational Life Assistant"
+title:  "Organisational Life Assistant-How gaming logics can raise the Environmental Analysis module acceptance"
+author: T. Pedro, F. Gaspar, P. Caetano (Instituto Universitario de Lisboa)
+authorlink:
+categories: project
+publishdate: 2016
+image:
+summaryimg:
+imgcaption: ""
+abstract: "Organisational Life Assistant (OLA) is an European AAL project that is
+developing technological solutions to allow seniors to be more independent,
+self-assured and to have a healthier and safer life in close communication with
+their caretakers. This paper focuses on a specific feature of our solution, namely,
+the OLA-Environment Analysis (OLA-EA) that provides the technological means to prevent
+hazard daily situations at home, based on space geometry or other indoor obstacles
+such as furniture. Game mechanics such as house scanning percentage of completeness
+or constant feedback while scanning could help in engaging users and, because it's
+a lone process, it could also benefit from multiplayer mechanics where the users
+could raise awareness about their own identified hazard situations by sharing them
+with others and thus increasing the acceptance of our service."
+link:
+paper: _papers/lisboa.pdf
+---

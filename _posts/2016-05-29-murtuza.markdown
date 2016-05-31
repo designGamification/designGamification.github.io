@@ -2,12 +2,12 @@
 layout: project
 shorttitle:  "Roller Coaster Track Design Behavioral Experiment"
 title:  "Roller Coaster Track Design Behavioral Experiment"
-author: M. Shergad and J. Panchal
+author: M. Shergad and J. Panchal (Purdue)
 authorlink:
 categories: project
 publishdate: 2016
-image: _images/murtuza/image.png
-summaryimg: _images/murtuza/summaryimg.png
+image:
+summaryimg:
 imgcaption: ""
 abstract: "Although it is well established that experts perform better than novices,
 there is a lack of formal methods to quantify the potential impact of expertise on

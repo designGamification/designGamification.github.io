@@ -2,9 +2,23 @@
 layout: default
 date: 2016-05-30
 ---
+  <br>
   <div id="slides">
-
+    {% for post in site.posts %}
+      {% if post.categories contains 'project' %}
+      <div id="slideimage">
+        <a href="{{ post.url }}" title="{{ post.shorttitle }}, {{ post.author }}">
+          {% if post.image %}
+          <img src="{{ site.url }}/{{ post.image }}"><br>
+          {% else %}
+          <img src="{{ site.url }}/_images/missing_image.png"><br>
+          {% endif %}
+        </a>
+      </div>
+      {% endif %}
+    {% endfor %}
   </div>
+  <br><br>
   <div id="mission">
     <b>Mission:</b><br>
     We study <b>gamification</b> mechanisms that could enhance design activities, and discover

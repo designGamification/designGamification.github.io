@@ -1,0 +1,16 @@
+---
+layout: project
+shorttitle:  "Orbital Federates"
+title:  "Orbital Federates"
+author: P. Grogan (Stevens)
+authorlink: personal.stevens.edu/~pgrogan
+categories: project
+publishdate: 2016
+image:
+summaryimg:
+imgcaption: ""
+abstract: "Downlink capacity is one of the biggest limitations of current Earth observing space missions. Most spacecraft pass over their dedicated ground stations infrequently and only for short durations. A Federated Satellite System (FSS) is a distributed space system concept where independent operators of spacecraft have the option to lease excess capacity to and from each other. FSS is enabled by inter-satellite links and standardized protocols for on-orbit data exchange. A key challenge in implementing a FSS deals with its decentralized nature. A federated system can be represented as a Stag Hunt game with two Nash equilibria: a risk dominant one where each player acts independently (e.g. current space systems) and a payoff dominant one where players collaborate to achieve a common goal. Design of a FSS deals with establishing the social contracts to encourage the desired collective behavior.
+           Orbital Federates is a simplified game to model space system operations and study collaborative (and non-collaborative) behaviors in a FSS. "
+link:
+paper: _papers/stevens.docx
+---

@@ -2,7 +2,7 @@
 layout: project
 shorttitle:  "Using Games to Understand Tradeoffs in Designing Across Technology Domains"
 title:  "Using Games to Understand Tradeoffs in Designing Across Technology Domains"
-author: B. Yan, J. Alstott and J. Luo
+author: B. Yan, J. Alstott and J. Luo (Singapore University of Technology and Design)
 authorlink:
 categories: project
 publishdate: 2016
