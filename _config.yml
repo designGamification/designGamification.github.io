@@ -4,7 +4,7 @@ email: yiren@asu.edu
 description: >
   The Design Gamification Community
 baseurl: ""
-url: "http://designgamification.github.io"
+url: ""
 github_username:  designGamification
 # Build Settings
 sass:

@@ -1,0 +1,18 @@
+---
+layout: project
+shorttitle:  "Roller Coaster Track Design Behavioral Experiment"
+title:  "Roller Coaster Track Design Behavioral Experiment"
+author: M. Shergad and J. Panchal
+authorlink:
+categories: project
+publishdate: 2016
+image: _images/murtuza/image.png
+summaryimg: _images/murtuza/summaryimg.png
+imgcaption: ""
+abstract: "Although it is well established that experts perform better than novices,
+there is a lack of formal methods to quantify the potential impact of expertise on
+the quality of design outcomes. The research question addressed through this behavioral
+experiment is: How can the impact of expertise on the quality of design solutions be quantified?"
+link:
+paper: _papers/murtuza.docx
+---

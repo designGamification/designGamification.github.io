@@ -1,0 +1,27 @@
+---
+layout: project
+shorttitle:  "Using Games to Understand Tradeoffs in Designing Across Technology Domains"
+title:  "Using Games to Understand Tradeoffs in Designing Across Technology Domains"
+author: B. Yan, J. Alstott and J. Luo
+authorlink:
+categories: project
+publishdate: 2016
+image: _images/sutd/image.png
+summaryimg: _images/sutd/summaryimg.png
+imgcaption: "Top) A player's starting position, with knowledge of 'Organic Chemistry' and access to the
+             related domain 'Carbocyclic Compounds'
+             Bottom) The same player after several moves, his/her expanded knowledge portfolio and
+             access to additional domains in the technology space, and counts of patents and breakthrough
+             patents received among the way"
+abstract: "Design can be viewed as a process of exploration and exploitation in the space of technologies.
+            Designers could leverage the technologies or technological knowledge that they have already
+            mastered to create new applications in other technological fields, or draw analogical inspirations
+            from other technologies to solve their current design problems. Designers need to balance between exploration across distant domains and exploitation
+            across proximate domains in their learning, capability building and search for design
+            opportunities, for tradeoffs in differentiated performance outcomes. However, such a
+            performance tradeoff is often nonobvious,
+            and the balancing is also generally challenging. We built a game to help designers consider the space of technology domains, their place in it,
+                                                             and strategies for moving across different domains, and 'see' possible performance outcomes."
+link:
+paper: _papers/sutd.pdf
+---
