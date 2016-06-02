@@ -2,7 +2,7 @@
 layout: project
 shorttitle:  "Roller Coaster Track Design Behavioral Experiment"
 title:  "Roller Coaster Track Design Behavioral Experiment"
-author: M. Shergad and J. Panchal (Purdue)
+author: M. Shergadwala and J. Panchal (Purdue)
 authorlink:
 categories: project
 publishdate: 2016
