@@ -17,7 +17,10 @@ Domains - Bowen Yan (Singapore University of Technology and Design)
 * Roller Coaster Track Design Behavioral Experiment - Murtuza Shergad (Purdue University)
 
 ### Group discussion (4:00pm - 4:45pm) ###
-Discussion topics TBD
+* What design activities/challenges can get benefit from human "knowledge" and "creativity"?
+* What human "knowledge" and "creativity" are shown and can be learned through game plays?
+* How game mechanism affects human behavior and design results?
+* How to document both successes and failures in the development of gamification?
 
 ### Conclusion (5:00pm - 5:30pm) ###
 
