@@ -2,7 +2,7 @@
 layout: project
 shorttitle:  "Game Theory and Behavioral Experimentation in Engineering Design"
 title:  "Game Theory and Behavioral Experimentation in Engineering Design"
-author: Z. Sha (Northwestern)
+author: Z. Sha (Northwestern) and J. Panchal (Purdue)
 authorlink:
 categories: project
 publishdate: 2016
