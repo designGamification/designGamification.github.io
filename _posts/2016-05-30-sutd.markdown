@@ -22,6 +22,6 @@ abstract: "Design can be viewed as a process of exploration and exploitation in 
             performance tradeoff is often nonobvious,
             and the balancing is also generally challenging. We built a game to help designers consider the space of technology domains, their place in it,
                                                              and strategies for moving across different domains, and 'see' possible performance outcomes."
-link: http://innogps.sutd.edu.sg/game.html
+link: innogps.sutd.edu.sg/game.html
 paper: _papers/sutd.pdf
 ---
