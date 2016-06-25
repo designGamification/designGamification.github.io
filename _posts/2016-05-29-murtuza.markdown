@@ -14,5 +14,5 @@ there is a lack of formal methods to quantify the potential impact of expertise 
 the quality of design outcomes. The research question addressed through this behavioral
 experiment is: How can the impact of expertise on the quality of design solutions be quantified?"
 link: _papers/moto.zip
-paper: _papers/moto.zip
+paper: _papers/murtuza.docx
 ---
