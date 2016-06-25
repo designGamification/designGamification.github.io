@@ -13,6 +13,6 @@ abstract: "Although it is well established that experts perform better than novi
 there is a lack of formal methods to quantify the potential impact of expertise on
 the quality of design outcomes. The research question addressed through this behavioral
 experiment is: How can the impact of expertise on the quality of design solutions be quantified?"
-link: http://designgamification.github.io/_papers/moto.zip
+link: designgamification.github.io/_papers/moto.zip
 paper: _papers/murtuza.docx
 ---
