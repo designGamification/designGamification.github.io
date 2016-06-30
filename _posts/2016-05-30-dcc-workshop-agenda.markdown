@@ -5,7 +5,7 @@ date:   2016-05-30 00:00:00
 categories: workshop
 ---
 ### [Overview of the Workshop](../_presentations/intro.pdf) (2:00pm - 2:15pm) ###
-* Max Yi Ren (Arizona State University), Alparslan E. Bayrak (University of Michigan)
+* Max Yi Ren (Arizona State University), A. Emrah Bayrak (University of Michigan)
 
 ### Presentations (15 min each, 2:15pm - 4:10pm) ###
 * [Orbital Federates](../_presentations/stevens.pdf) - Paul Grogan (Stevens Institute)
