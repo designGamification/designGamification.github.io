@@ -15,7 +15,7 @@ Domains](../_presentations/sutd.pdf) - Bowen Yan (Singapore University of Techno
 * [Organizational Life Assistant](../_presentations/iscte.pdf) - Tiago Pedro (Instituto Universitario de Lisboa) [(link1)](https://vimeo.com/110771267), [(link2)](https://vimeo.com/132556930)
 * [Studying Design Fixation with a Computer Game](../_presentations/cambridge.pdf) - Maria Adriana Neroni, Arthur Vasconcelos (University of Cambridge)
 * [Roller Coaster Track Design Behavioral Experiment](../_presentations/purdue.pdf) - Murtuza Shergad (Purdue University)
-* Games for Systems Engineers - Bryan Mesmer (University of Alabama, Huntsville)
+* [Games for Systems Engineers](../_presentations/uah.pdf) - Bryan Mesmer (University of Alabama, Huntsville)
 
 ### Group discussion (4:30pm - 5:15pm) ###
 * What design activities/challenges can get benefit from human "knowledge" and "creativity"?
