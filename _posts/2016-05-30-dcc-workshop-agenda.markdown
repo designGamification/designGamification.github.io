@@ -4,24 +4,25 @@ title:  "DCC2016 Workshop Agenda (2:00pm - 5:30pm, June 25)"
 date:   2016-05-30 00:00:00
 categories: workshop
 ---
-### Overview of the workshop (2:00pm - 2:15pm) ###
+### [Overview of the Workshop](../_presentations/intro.pdf) (2:00pm - 2:15pm) ###
 * Max Yi Ren (Arizona State University), Alparslan E. Bayrak (University of Michigan)
 
-### Presentations (15 min each, 2:15pm - 3:45pm) ###
-* Orbital Federates - Paul Grogan (Stevens Institute)
-* Using Games to Understand Tradeoffs in Designing Across Technology 
-Domains - Bowen Yan (Singapore University of Technology and Design)
+### Presentations (15 min each, 2:15pm - 4:10pm) ###
+* [Orbital Federates](../_presentations/stevens.pdf) - Paul Grogan (Stevens Institute)
+* [Using Games to Understand Tradeoffs in Designing Across Technology 
+Domains](../_presentations/sutd.pdf) - Bowen Yan (Singapore University of Technology and Design)
 * Game Theory and Behavioral Experimentation in Engineering Design - Zhenghui Sha (Northwestern University)
-* Organizational Life Assistant - Tiago Pedro (Instituto Universitario de Lisboa)
-* Studying Design Fixation with a Computer Game - Maria Adriana Neroni (University of Cambridge)
-* Roller Coaster Track Design Behavioral Experiment - Murtuza Shergad (Purdue University)
+* [Organizational Life Assistant](../_presentations/iscte.pdf) - Tiago Pedro (Instituto Universitario de Lisboa) [(link1)](https://vimeo.com/110771267), [(link2)](https://vimeo.com/132556930)
+* [Studying Design Fixation with a Computer Game](../_presentations/cambridge.pdf) - Maria Adriana Neroni, Arthur Vasconcelos (University of Cambridge)
+* [Roller Coaster Track Design Behavioral Experiment](../_presentations/purdue.pdf) - Murtuza Shergad (Purdue University)
+* Games for Systems Engineers - Bryan Mesmer (University of Alabama, Huntsville)
 
-### Group discussion (4:00pm - 4:45pm) ###
+### Group discussion (4:30pm - 5:15pm) ###
 * What design activities/challenges can get benefit from human "knowledge" and "creativity"?
 * What human "knowledge" and "creativity" are shown and can be learned through game plays?
 * How game mechanism affects human behavior and design results?
 * How to document both successes and failures in the development of gamification?
 
-### Conclusion (5:00pm - 5:30pm) ###
+### Conclusion (5:15pm - 5:30pm) ###
 
 
