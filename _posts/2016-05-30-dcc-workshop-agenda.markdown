@@ -10,7 +10,7 @@ categories: workshop
 ### Presentations (15 min each, 2:15pm - 4:10pm) ###
 * [Orbital Federates](../_presentations/stevens.pdf) - Paul Grogan (Stevens Institute)
 * [Using Games to Understand Tradeoffs in Designing Across Technology 
-Domains](../_presentations/sutd.pdf) - Bowen Yan (Singapore University of Technology and Design)
+Domains](../_presentations/sutd.pdf) - Bowen Yan, Jeff Alstott (Singapore University of Technology and Design)
 * Game Theory and Behavioral Experimentation in Engineering Design - Zhenghui Sha (Northwestern University)
 * [Organizational Life Assistant](../_presentations/iscte.pdf) - Tiago Pedro (Instituto Universitario de Lisboa) [(link1)](https://vimeo.com/110771267), [(link2)](https://vimeo.com/132556930)
 * [Studying Design Fixation with a Computer Game](../_presentations/cambridge.pdf) - Maria Adriana Neroni, Arthur Vasconcelos (University of Cambridge)
